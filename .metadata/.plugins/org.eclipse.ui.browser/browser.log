@@ -1,0 +1,13 @@
+
+Jul 31, 2024 09:55:50.143 NEW SESSION
+Jul 31, 2024 09:55:50.144 [13256:4396:0731/095550.127:ERROR:cert_verify_proc_builtin.cc(1069)] CertVerifyProcBuiltin for prod5c.rewardsplatform.microsoft.com failed:
+Jul 31, 2024 09:55:50.144 ----- Certificate i=0 (CN=Kubernetes Ingress Controller Fake Certificate,O=Acme Co) -----
+Jul 31, 2024 09:55:50.144 ERROR: No matching issuer found
+Jul 31, 2024 09:55:50.144 
+Jul 31, 2024 09:55:50.145 
+Jul 31, 2024 09:56:20.93 [13256:17824:0731/095620.092:ERROR:CONSOLE(2)] "Blocked autofocusing on a <cib-action-bar> element in a cross-origin subframe.", source: https://edgeservices.bing.com/rp/VNNyLOpNfI-wPXn-E1pneV7wVBs.gz.js (2)
+Jul 31, 2024 09:56:20.188 [13256:17824:0731/095620.188:ERROR:CONSOLE(2)] "Blocked autofocusing on a <textarea> element in a cross-origin subframe.", source: https://edgeservices.bing.com/rp/VNNyLOpNfI-wPXn-E1pneV7wVBs.gz.js (2)
+Jul 31, 2024 09:57:36.138 [13256:17824:0731/095736.137:ERROR:CONSOLE(15)] "This document requires 'TrustedScript' assignment.", source: edge://print/print-preview.bundle.js (15)
+Jul 31, 2024 09:57:36.154 [13256:17824:0731/095736.154:ERROR:print_preview_handler.cc(1247)] Initiated PrintPreviewHandler::HandleGetInitialSettings()
+Jul 31, 2024 09:57:45.660 [13256:17824:0731/095745.660:ERROR:CONSOLE(15)] "This document requires 'TrustedScript' assignment.", source: edge://print/print-preview.bundle.js (15)
+Jul 31, 2024 09:57:45.678 [13256:17824:0731/095745.678:ERROR:print_preview_handler.cc(1247)] Initiated PrintPreviewHandler::HandleGetInitialSettings()

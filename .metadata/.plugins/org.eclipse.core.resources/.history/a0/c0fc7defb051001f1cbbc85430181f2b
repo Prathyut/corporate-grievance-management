@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Home</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .navbar {
+            background-color: #007bff; /* Blue background */
+            color: white;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 20px;
+        }
+        .navbar a {
+            color: white;
+            text-decoration: none;
+            padding: 0 15px;
+        }
+        .navbar a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+        <div class="navbar" id="myNavbar">
+        <a href="home.jsf"><i class="fas fa-home"></i> Home</a>
+   
+        <a href="emplogin.jsf"><i class="fas fa-sign-in-alt"></i> Employee Login</a>
+        <a href="adminlogin.jsf"><i class="fas fa-user-shield"></i> Admin Login</a>
+        <a href="hrlogin.jsf"><i class="fas fa-user-shield"></i>HR Login</a>"
+        
+        <a href="javascript:void(0);" class="icon" onclick="toggleNavbar()">
+            <i class="fa fa-bars"></i>
+        </a>
+    </div>
+
+
+    <div class="content">
+        <h1>Welcome, ram! You are now in the Employee Home.</h1>
+        <!-- Rest of your content here -->
+    </div>
+</body>
+</html>
